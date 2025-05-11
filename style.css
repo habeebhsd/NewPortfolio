@@ -1083,7 +1083,10 @@ h2#Skills {
         flex: 1;
         max-width: 80%;
     }
-
+.hero h1 {
+    font-size: 1.8em;
+    font-weight: bold;
+}
     .about-image img {
         width: auto;
         height: 250px;
@@ -1092,7 +1095,7 @@ h2#Skills {
     }
 
     .about-content h2 {
-        font-size: 1.8em;
+        font-size: 50px;
         margin-bottom: 10px;
     }
 
